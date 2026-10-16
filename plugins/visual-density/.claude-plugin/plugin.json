@@ -1,0 +1,13 @@
+{
+  "name": "visual-density",
+  "description": "Make the order of importance on a screen unmistakable and choose its density on purpose: type scales, spacing rhythm, visual weight, heading parity and scanning, with a page-measuring audit script and a token generator.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shubhransh Bhaskar",
+    "url": "https://github.com/iamshubhransh"
+  },
+  "homepage": "https://github.com/iamshubhransh/visual-density",
+  "repository": "https://github.com/iamshubhransh/visual-density",
+  "license": "MIT",
+  "keywords": ["design", "visual-hierarchy", "density", "typography", "spacing", "design-tokens", "ui", "accessibility"]
+}

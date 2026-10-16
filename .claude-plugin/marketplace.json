@@ -1,0 +1,15 @@
+{
+  "name": "visual-density",
+  "description": "Visual hierarchy and density for interfaces: type scales, spacing rhythm, visual weight, heading parity, scanning, and how dense each screen should be.",
+  "owner": {
+    "name": "Shubhransh Bhaskar",
+    "url": "https://github.com/iamshubhransh"
+  },
+  "plugins": [
+    {
+      "name": "visual-density",
+      "source": "./plugins/visual-density",
+      "description": "Classifies each screen (landing, consumer, reading, productivity, operational), then sets or fixes the type scale, spacing, emphasis, heading parity and density for it — and measures the rendered page before and after with a bundled audit script."
+    }
+  ]
+}
